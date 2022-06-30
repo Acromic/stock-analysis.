@@ -1,4 +1,6 @@
 # stock-analysis.
+Expanding a dataset to include the entire stock market over the last few years
+
 ## Overview of Project
 Refactoring code to have a more efficent code. Improving performance on the existing code.
 ![VBA_Challenge_2017.png](Resources/VBA_Challenge_2017.png) & ![VBA_Challenge_2018.png](Resources/VBA_Challenge_2018.png)
